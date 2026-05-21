@@ -84,7 +84,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 
-
 **RTL realization Output:** 
 <img width="1920" height="1080" alt="DE-EX-1-2" src="https://github.com/user-attachments/assets/9b808c0d-6dfe-4534-b0a5-bd8b246bf522" />
 
